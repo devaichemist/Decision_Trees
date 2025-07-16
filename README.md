@@ -18,5 +18,8 @@ We'll implement the following functions, which will let us split a node into lef
  - Calculate the information gain from splitting on a given feature
  - Choose the feature that maximizes information gain
 
+### Results:
+
+By calculating entropy and information gain, the decision tree selects the best features to split the data. For example, the "Solitary" feature gave the highest information gain at the root.
 
 <img width="956" height="450" alt="Screenshot 2025-07-16 at 12 26 45" src="https://github.com/user-attachments/assets/e7dacbce-73e9-49ff-ad9c-429aa4c4bf6a" />
